@@ -23,3 +23,7 @@ EXPOSE 8080
 
 # Define el comando para ejecutar la aplicación JAR.
 CMD sh -c 'java -jar target/*.jar'
+
+
+
+
